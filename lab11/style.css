@@ -1,0 +1,19 @@
+
+table{
+    border-collapse: collapse;
+    border-color: greenyellow;
+    text-align: center;
+}
+.title1{
+    background-color: green;
+    color: white
+}
+.title2{
+    background-color: greenyellow;
+}
+.chu{
+    color: red;
+}
+.chu2{
+    color: red;
+}
